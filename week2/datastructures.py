@@ -13,8 +13,6 @@ print(zainslist[2:5])
 print(zainslist[0:5])
 zainslist.remove("japan")
 thislist.sort()
-print(thislist[0:5])
-
 print(zainslist[0:5])
 # looping the list
 for x in zainslist:
