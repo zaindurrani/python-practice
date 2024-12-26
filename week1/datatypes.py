@@ -29,7 +29,7 @@ type(c)
 len(c)
 
 #string multi line single line and joining stringds
-a = "zaknidurfppasfanaf"
+a = "zain"
 
 b = 'asdasd thus is  MULTI LINE ' \
 'ASDASD'
